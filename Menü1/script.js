@@ -11,7 +11,7 @@ function toggleActive(clickedElement) {
 function changeImage(linkText) {
     var imageContainer = document.getElementById("image-container");
     var imagePath;
-    // Link metnine göre resim yolunu belirle
+    
     switch (linkText) {
         case "Breakfast":
             imagePath = "img/breakfast-image.jpg";
