@@ -1,0 +1,33 @@
+.main-header.menu-header {
+  background-image: none;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 60px;
+  color: #fff;
+  position: relative;
+  width: 100%;
+}
+#all-menu {
+  margin: 100px;
+}
+#menu-description p {
+  padding-right: 200px;
+  font-size: 20px;
+}
+#menu-description h2 {
+  font-size: 30px;
+}
+#menu-buttons button {
+  font-size: 20px;
+  margin: 20px;
+}
+.card {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  display: inline-block;
+}
+.card-img-top {
+  height: 200px;
+}
